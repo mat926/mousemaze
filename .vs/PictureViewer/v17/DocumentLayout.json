@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\mouse3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\mouse3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\mouse2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\mouse2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\lastlevel3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\lastlevel3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\mouse4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\mouse4.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\mouse1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\mouse1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\lastlevel3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\lastlevel3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\lastlevel2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\lastlevel2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\lastlevel1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\lastlevel1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\form83.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\form83.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PictureViewer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\face9.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\face9.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\form115.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|solutionrelative:pictureviewer\\form115.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BC3E5C-2223-45F3-8ECF-09EFD126FEA4}|PictureViewer\\PictureViewer.vbproj|c:\\users\\vboxuser\\source\\repos\\mousemaze\\pictureviewer\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|f8d6553f-f752-4dbf-acb6-f291b744a792"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mouse4.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse4.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\mouse4.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse4.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\mouse4.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T21:00:00.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mouse3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse3.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\mouse3.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse3.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\mouse3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:59:49.137Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mouse2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse2.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\mouse2.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse2.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\mouse2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:59:33.511Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mouse1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse1.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\mouse1.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\mouse1.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\mouse1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:59:15.423Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "lastlevel3.vb",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel3.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\lastlevel3.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel3.vb",
+              "RelativeToolTip": "PictureViewer\\lastlevel3.vb",
+              "ViewState": "AgIAAIwAAAAAAAAAAADwv6sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:59:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "lastlevel3.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel3.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\lastlevel3.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel3.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\lastlevel3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:58:14.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "lastlevel2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel2.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\lastlevel2.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel2.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\lastlevel2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:58:07.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "lastlevel1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel1.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\lastlevel1.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\lastlevel1.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\lastlevel1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:57:57.072Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form83.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\Form83.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\Form83.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\Form83.vb [Design]",
+              "RelativeToolTip": "PictureViewer\\Form83.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:57:26.263Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "face9.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\face9.Designer.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\face9.Designer.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\face9.Designer.vb",
+              "RelativeToolTip": "PictureViewer\\face9.Designer.vb",
+              "ViewState": "AgIAAE0DAAAAAAAAAAAMwFsDAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:43:28.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form115.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\Form115.Designer.vb",
+              "RelativeDocumentMoniker": "PictureViewer\\Form115.Designer.vb",
+              "ToolTip": "C:\\Users\\vboxuser\\source\\repos\\mousemaze\\PictureViewer\\Form115.Designer.vb",
+              "RelativeToolTip": "PictureViewer\\Form115.Designer.vb",
+              "ViewState": "AgIAAIoOAAAAAAAAAAAMwJgOAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-12-26T20:43:18.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PictureViewer",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Source\\Repos\\mousemaze\\PictureViewer\\PictureViewer.vbproj",
+              "RelativeDocumentMoniker": "PictureViewer\\PictureViewer.vbproj",
+              "ToolTip": "C:\\Users\\vboxuser\\Source\\Repos\\mousemaze\\PictureViewer\\PictureViewer.vbproj",
+              "RelativeToolTip": "PictureViewer\\PictureViewer.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-26T20:42:47.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
