@@ -1,8 +1,8 @@
-# MouseMaze
+# MouseMaze <img src="Screenshots/arrow.png" alt="arrow" width="20"/>
 
-MouseMaze is an interactive game where players guide the mouse cursor through a complex maze to reach the goal. The game involves solving puzzles, avoiding obstacles, and finding the shortest path to the goal. It is designed to be both fun and challenging, suitable for players of all ages. The project is built using Visual Basic and WinForms.
+MouseMaze is an fun interactive game where players guide the mouse cursor through a complex maze to reach the goal. The game involves solving puzzles, avoiding obstacles, and finding the shortest path to the goal. It is designed to be both fun and challenging, suitable for players of all ages. The project is built using Visual Basic and WinForms.
 
-## Screenshots
+## Screenshots 
 
 ![Screenshot](Screenshots/1.png)
 
