@@ -4,12 +4,12 @@ MouseMaze is an interactive game where players guide the mouse cursor through a 
 
 ## Screenshots
 
-![Screenshot](screenshots/1.png)
+![Screenshot](Screenshots/1.png)
 
-![Screenshot](screenshots/3.jpg)
+![Screenshot](Screenshots/3.jpg)
 
-![Screenshot](screenshots/4.png)
+![Screenshot](Screenshots/4.png)
 
-![Screenshot](screenshots/5.png)
+![Screenshot](Screenshots/5.png)
 
-![Screenshot](screenshots/6.jpg)
+![Screenshot](Screenshots/6.jpg)
